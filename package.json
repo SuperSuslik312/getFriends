@@ -1,0 +1,38 @@
+{
+  "name": "getfriends",
+  "version": "1.0.0",
+  "description": "getFriends by SuperSuslik312",
+  "main": "index.js",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "data-uri-to-buffer": "^4.0.0",
+    "debug": "^4.3.3",
+    "event-target-shim": "^5.0.1",
+    "fetch-blob": "^3.1.4",
+    "form-data-encoder": "^1.7.1",
+    "formdata-node": "^4.3.2",
+    "formdata-polyfill": "^4.0.10",
+    "inspectable": "^1.2.1",
+    "js-base64": "^3.7.2",
+    "middleware-io": "^2.8.0",
+    "ms": "^2.1.2",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.2.0",
+    "vk-io": "^4.4.0",
+    "web-streams-polyfill": "^4.0.0-beta.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperSuslik312/getFriends.git"
+  },
+  "author": "SuperSuslik312",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SuperSuslik312/getFriends/issues"
+  },
+  "homepage": "https://github.com/SuperSuslik312/getFriends#readme"
+}
